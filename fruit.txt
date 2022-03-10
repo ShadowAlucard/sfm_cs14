@@ -4,3 +4,5 @@ szilva
 barack
 eper
 dió
+ribizli
+
